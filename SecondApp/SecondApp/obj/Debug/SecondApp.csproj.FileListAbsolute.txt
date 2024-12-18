@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\SecondApp\SecondApp\bin\Debug\SecondApp.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\SecondApp\SecondApp\bin\Debug\SecondApp.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\SecondApp\SecondApp\bin\Debug\SecondApp.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\SecondApp\SecondApp\obj\Debug\SecondApp.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\SecondApp\SecondApp\obj\Debug\SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\SecondApp\SecondApp\obj\Debug\SecondApp.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\SecondApp\SecondApp\obj\Debug\SecondApp.pdb

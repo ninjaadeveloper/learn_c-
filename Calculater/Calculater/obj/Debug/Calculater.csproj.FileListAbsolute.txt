@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Calculater\Calculater\bin\Debug\Calculater.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Calculater\Calculater\bin\Debug\Calculater.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Calculater\Calculater\bin\Debug\Calculater.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Calculater\Calculater\obj\Debug\Calculater.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Calculater\Calculater\obj\Debug\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Calculater\Calculater\obj\Debug\Calculater.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Calculater\Calculater\obj\Debug\Calculater.pdb
