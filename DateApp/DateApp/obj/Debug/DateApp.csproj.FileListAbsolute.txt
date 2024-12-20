@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\DateApp\DateApp\bin\Debug\DateApp.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\DateApp\DateApp\bin\Debug\DateApp.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\DateApp\DateApp\bin\Debug\DateApp.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\DateApp\DateApp\obj\Debug\DateApp.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\DateApp\DateApp\obj\Debug\DateApp.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\DateApp\DateApp\obj\Debug\DateApp.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\DateApp\DateApp\obj\Debug\DateApp.pdb
