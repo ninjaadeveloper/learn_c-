@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\constructs\constructs\bin\Debug\constructs.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\constructs\constructs\bin\Debug\constructs.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\constructs\constructs\bin\Debug\constructs.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\constructs\constructs\obj\Debug\constructs.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\constructs\constructs\obj\Debug\constructs.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\constructs\constructs\obj\Debug\constructs.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\constructs\constructs\obj\Debug\constructs.pdb
