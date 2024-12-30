@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Arrays\Arrays\obj\Debug\Arrays.pdb
