@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\arraysApp\arraysApp\bin\Debug\arraysApp.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\arraysApp\arraysApp\bin\Debug\arraysApp.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\arraysApp\arraysApp\bin\Debug\arraysApp.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\arraysApp\arraysApp\obj\Debug\arraysApp.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\arraysApp\arraysApp\obj\Debug\arraysApp.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\arraysApp\arraysApp\obj\Debug\arraysApp.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\arraysApp\arraysApp\obj\Debug\arraysApp.pdb
