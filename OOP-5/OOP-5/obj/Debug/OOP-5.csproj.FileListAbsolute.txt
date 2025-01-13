@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\OOP-5\OOP-5\bin\Debug\OOP-5.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\OOP-5\OOP-5\bin\Debug\OOP-5.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\OOP-5\OOP-5\bin\Debug\OOP-5.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\OOP-5\OOP-5\obj\Debug\OOP-5.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\OOP-5\OOP-5\obj\Debug\OOP-5.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\OOP-5\OOP-5\obj\Debug\OOP-5.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\OOP-5\OOP-5\obj\Debug\OOP-5.pdb
