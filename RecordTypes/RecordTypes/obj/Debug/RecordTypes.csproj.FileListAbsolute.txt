@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\RecordTypes\RecordTypes\bin\Debug\RecordTypes.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\RecordTypes\RecordTypes\bin\Debug\RecordTypes.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\RecordTypes\RecordTypes\bin\Debug\RecordTypes.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\RecordTypes\RecordTypes\obj\Debug\RecordTypes.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\RecordTypes\RecordTypes\obj\Debug\RecordTypes.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\RecordTypes\RecordTypes\obj\Debug\RecordTypes.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\RecordTypes\RecordTypes\obj\Debug\RecordTypes.pdb
