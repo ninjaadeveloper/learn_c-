@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\testDeligates\testDeligates\bin\Debug\testDeligates.exe.config
+C:\Users\Int\Documents\PR2-202311B\testDeligates\testDeligates\bin\Debug\testDeligates.exe
+C:\Users\Int\Documents\PR2-202311B\testDeligates\testDeligates\bin\Debug\testDeligates.pdb
+C:\Users\Int\Documents\PR2-202311B\testDeligates\testDeligates\obj\Debug\testDeligates.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\testDeligates\testDeligates\obj\Debug\testDeligates.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\testDeligates\testDeligates\obj\Debug\testDeligates.exe
+C:\Users\Int\Documents\PR2-202311B\testDeligates\testDeligates\obj\Debug\testDeligates.pdb
