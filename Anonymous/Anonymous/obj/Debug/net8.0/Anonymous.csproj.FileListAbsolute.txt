@@ -1,0 +1,15 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.deps.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.runtimeconfig.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.AssemblyInfoInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.AssemblyInfo.cs
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.sourcelink.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\refint\Anonymous.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.genruntimeconfig.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Anonymous\Anonymous\obj\Debug\net8.0\ref\Anonymous.dll

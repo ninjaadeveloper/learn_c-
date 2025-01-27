@@ -1,0 +1,7 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\session12\session12\bin\Debug\session12.exe.config
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\session12\session12\bin\Debug\session12.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\session12\session12\bin\Debug\session12.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\session12\session12\obj\Debug\session12.csproj.AssemblyReference.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\session12\session12\obj\Debug\session12.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\session12\session12\obj\Debug\session12.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\session12\session12\obj\Debug\session12.pdb
