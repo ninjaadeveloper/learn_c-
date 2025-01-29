@@ -1,0 +1,17 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\bin\Debug\net8.0-windows\Desktop-World.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\bin\Debug\net8.0-windows\Desktop-World.deps.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\bin\Debug\net8.0-windows\Desktop-World.runtimeconfig.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\bin\Debug\net8.0-windows\Desktop-World.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\bin\Debug\net8.0-windows\Desktop-World.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop_World.Form1.resources
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.csproj.GenerateResource.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.AssemblyInfoInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.AssemblyInfo.cs
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.sourcelink.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\refint\Desktop-World.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\Desktop-World.genruntimeconfig.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-World\Desktop-World\obj\Debug\net8.0-windows\ref\Desktop-World.dll

@@ -1,0 +1,17 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\bin\Release\net8.0-windows\Desktop-Calculater.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\bin\Release\net8.0-windows\Desktop-Calculater.deps.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\bin\Release\net8.0-windows\Desktop-Calculater.runtimeconfig.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\bin\Release\net8.0-windows\Desktop-Calculater.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\bin\Release\net8.0-windows\Desktop-Calculater.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop_Calculater.Form1.resources
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.csproj.GenerateResource.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.AssemblyInfoInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.AssemblyInfo.cs
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.csproj.CoreCompileInputs.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.sourcelink.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\refint\Desktop-Calculater.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.pdb
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\Desktop-Calculater.genruntimeconfig.cache
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\learn_c-\Desktop-Calculater\Desktop-Calculater\obj\Release\net8.0-windows\ref\Desktop-Calculater.dll

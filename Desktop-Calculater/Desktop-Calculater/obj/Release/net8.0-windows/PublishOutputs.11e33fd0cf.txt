@@ -1,0 +1,5 @@
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Desktop-Calculater.exe
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Desktop-Calculater.dll
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Desktop-Calculater.deps.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Desktop-Calculater.runtimeconfig.json
+C:\Users\Int\Documents\PR2-202311B\HDSE-I\Desktop-Calculater.pdb
